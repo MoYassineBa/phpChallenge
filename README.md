@@ -44,8 +44,6 @@ CREATE TABLE commentaires (
     horodatage TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-- **Insert 30 random feedback entries with different past dates into the 'commentaires' table :**  
-```sql
 INSERT INTO commentaires (nom, message, horodatage)
 VALUES
 ('Alice', 'Great service, very helpful!', DATE_SUB(NOW(), INTERVAL 1 DAY)),
