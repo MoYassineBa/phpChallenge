@@ -1,6 +1,6 @@
 # PHP Challenge: Système de Feedback Simple  
 
-## Session 2 : PHP Procédural et SQL  
+## Session 2 : PHP POO et SQL  
 
 ### Objectif  
 Créer une page web en PHP permettant aux utilisateurs de soumettre des commentaires et de les stocker dans une base de données MySQL.  
